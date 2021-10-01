@@ -63,4 +63,5 @@ public class AppTest {
         int count = App.sumOfSameElements(null, null, null);
         assertTrue(App.compare(count, 5));
      }
+     
 }
