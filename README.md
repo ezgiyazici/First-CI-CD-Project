@@ -7,8 +7,9 @@ List 1 : {1 , 2 , 3}
 List 2 : {0 , 2 , 3}
 List 3 : {2 , 3 , 4 }
 Number : 4
-The same elemnts are : 2 and 3 . 2 + 3 = 5 5 > 4 , so The sum of same elements in the lists less than the number : false
+The same numbers are : 2 and 3 . 2 + 3 = 5 5 > 4 , so The sum of same elements in the lists less than the number : false
 
 [![Build Status](https://app.travis-ci.com/ezgiyazici/First-CI-CD-Project.svg?branch=main)](https://app.travis-ci.com/ezgiyazici/First-CI-CD-Project)
 
 Demo site : https://agile-tor-60921.herokuapp.com/compute
+
